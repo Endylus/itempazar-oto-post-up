@@ -1,5 +1,4 @@
 # itempazar-oto-post-up
-Itempazar'daki ilanlarınızı otomatik olarak yukarı taşımaya yarıyor.
 
 Siteden cookie alma:
 https://youtu.be/pyki7sIR5cs
