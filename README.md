@@ -1,5 +1,7 @@
 # itempazar-oto-post-up
 
+Not: Bu script nedeniyle ortaya çıkabilecek sorunlardan sorumluluk kabul etmiyorum.
+
 Siteden cookie alma:
 https://youtu.be/pyki7sIR5cs
 
